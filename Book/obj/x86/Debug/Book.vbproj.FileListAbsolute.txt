@@ -1,0 +1,20 @@
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\bin\Debug\Book.exe
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\bin\Debug\Book.pdb
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\bin\Debug\Book.xml
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.Form1.resources
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.Resources.resources
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.vbproj.GenerateResource.Cache
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.exe
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.xml
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Book\Book\obj\x86\Debug\Book.pdb
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\bin\Debug\Book.exe
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\bin\Debug\Book.pdb
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\bin\Debug\Book.xml
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.vbprojAssemblyReference.cache
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.Form1.resources
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.Resources.resources
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.vbproj.GenerateResource.cache
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.vbproj.CoreCompileInputs.cache
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.exe
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.xml
+C:\Users\lakes\Documents\Cpy of art usb\New\Visual\Book\Book\obj\x86\Debug\Book.pdb
